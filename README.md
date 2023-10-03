@@ -1,6 +1,6 @@
 "# phpForLoop Example" 
 
-Clone this repo into your www folder under laragon. In the command prompt cd into the \laragon\www folder. Type ***git clone yourrepourl***. Then cd into the folder you have just cloned by typing ***cd labWeek3-yourgithubid***. Once you are in the correct folder keep this command window open so you can type in your git commands as required.
+Clone this repo into your www folder under laragon. In the command prompt ***cd***into the ***\laragon\www folder***. Type ***git clone your-repo-url*** (Get your repo url from github after creating the repo). Then cd into the folder you have just cloned by typing ***cd labWeek3-yourgithubid***. Once you are in the correct folder keep this command window open so you can type in your git commands as required.
 
 # Part 1
 
