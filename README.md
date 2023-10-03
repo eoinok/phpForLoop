@@ -4,7 +4,7 @@ Clone this repo into your www folder under laragon. In the command prompt ***cd*
 
 # Part 1
 
-Modify the code in phpForLoop.php so that it counts up to 20. Test your code by visiting http://localhost/phpForLoop.php. Once it works - commit and push your changes by typing ***git commit -am "put a good msg here"*** and ***git push origin main***
+Modify the code in phpForLoop.php so that it counts up to 20. Test your code by visiting http://localhost/phpForLoop.php. Once it works - commit and push your changes by typing ***git commit -am "put a good msg here"*** and then ***git push origin main***
 
 # Part 2 
 
